@@ -1,0 +1,4 @@
+.jumbotron {
+  background: url('./images/hero.jpg') center center / cover no-repeat;
+  padding-bottom: 200px;
+}
